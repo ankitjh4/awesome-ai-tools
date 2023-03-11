@@ -1,6 +1,20 @@
 # awesome-ai-tools
 An Awesome list of AI tools powered by ChatGPT / Whisper and Stable DIffusion or are useful to developers of that domain
 
+You will need the tools if you are a 
+- Developer / Indie- Hacker 
+- AI enthusiast 
+- Designer / artist 
+- Literally anyone who wants to use AI 
+
+### To Do:
+- Add user groups to each tool
+- Add a tutorial video for each of these tools 
+- Add a class for each tool for better classfication 
+
+![nothing important](./robot.png)
+# [Notion Link for better visibility and regular updates](https://tools.aiartcoach.com/)
+### Please start the repository and support my work ^_^ 
 # A repository of every AI tools and related library that I have discovered these days.
 
 In order to get your tool mentioned on here please drop a mail to **team@aiartcoach.com** and we can upload it here. I am working to create a sort of a community lead search engine for completed AI products. No ProductHunt demos. I also want to have a nice tutorial about these tools alongside so a beginner can very quickly get started on these tools. 
