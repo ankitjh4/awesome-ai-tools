@@ -11,9 +11,9 @@ You will need the tools if you are a
 - Add user groups to each tool
 - Add a tutorial video for each of these tools 
 - Add a class for each tool for better classfication 
-
-![nothing important](./robot.png)
 # [Notion Link for better visibility and regular updates](https://tools.aiartcoach.com/)
+
+<p align="center"><img src="robot.png" data-canonical-src="robot.png" width="512" height="768" /></p>
 ### Please start the repository and support my work ^_^ 
 # A repository of every AI tools and related library that I have discovered these days.
 
