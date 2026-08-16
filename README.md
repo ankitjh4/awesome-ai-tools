@@ -132,3 +132,4 @@ In order to get your tool mentioned on here please drop a mail to **team@aiartco
 | 107 | https://www.landingfolio.com/ | Landingfolio features the best landing page designs  templates  component and more on the web. Get inspired by real landing page examples curated by us to ensure the highest quality. |  |
 | 108 | https://headlime.com/ | A tool for marketing agencies  creative writers and copy writers to cure writing block. It is like copyAI but a lilttle less feature rich  |  |
 | 109 | https://www.useblackbox.io/ | AI-Powered Coding Assistant and code search tool that is able to search from github for a requisite repository if you supply it with the correct amount of information |  |
+| 110 | https://videos.social/?utm_source=ankitjh4-awesome-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d | Turn blogs, PDFs, and prompts into editable faceless videos (same class as Synthesia / Runway). Start free — 1 render included. |  |
