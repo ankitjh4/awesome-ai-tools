@@ -132,3 +132,5 @@ In order to get your tool mentioned on here please drop a mail to **team@aiartco
 | 107 | https://www.landingfolio.com/ | Landingfolio features the best landing page designs  templates  component and more on the web. Get inspired by real landing page examples curated by us to ensure the highest quality. |  |
 | 108 | https://headlime.com/ | A tool for marketing agencies  creative writers and copy writers to cure writing block. It is like copyAI but a lilttle less feature rich  |  |
 | 109 | https://www.useblackbox.io/ | AI-Powered Coding Assistant and code search tool that is able to search from github for a requisite repository if you supply it with the correct amount of information |  |
+| 110 | https://livefaceswap.ai/ | LiveFaceSwap AI: real-time AI face swap with web preview and a desktop client that outputs a virtual camera for OBS and video calls. |  |
+| 111 | https://vivify.video/realtime-face-swap | Vivify: real-time AI face swap, outfit try-on, and restyle on webcam video in the browser or as a virtual camera for OBS, Zoom, and Discord. |  |
